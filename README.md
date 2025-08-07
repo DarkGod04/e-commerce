@@ -37,7 +37,10 @@ An interactive and responsive e-commerce website built with HTML, CSS, and JavaS
 
 ## 📸 Screenshots
 
-> _(Add screenshots here to showcase the layout, modal, mobile view, etc.)_
+<img width="1300" height="1300" alt="desktop" src="https://github.com/user-attachments/assets/5b6b00e6-3445-43a0-bd24-059df6acffdb" />
+<img width="1300" height="1300" alt="mobile" src="https://github.com/user-attachments/assets/9c4d642e-c0eb-4f18-9abb-1045429631ad" />
+
+
 
 ## 🔧 Setup Instructions
 
