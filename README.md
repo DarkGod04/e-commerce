@@ -59,3 +59,6 @@ No server or build tools required. It's 100% frontend-based.
 NIKHIL KUMAR SINGH 
 
 GitHub: @DarkGod04
+
+📄 License
+This project is open-source.
