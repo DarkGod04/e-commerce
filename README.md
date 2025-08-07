@@ -60,5 +60,5 @@ NIKHIL KUMAR SINGH
 
 GitHub: @DarkGod04
 
-📄 License
+📄 License:
 This project is open-source.
